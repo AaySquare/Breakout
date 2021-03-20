@@ -1,2 +1,2 @@
 # Breakout
-Recreation of classic Breakout game using C++ and SFML
+Recreation of classic Breakout game created using C++ and SFML
